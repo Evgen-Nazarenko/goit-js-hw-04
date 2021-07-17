@@ -1,11 +1,11 @@
 body {
-  background-image: url(./img/cover.jpg);
+  background-image: url(/img/cover.jpg);
   background-repeat: no-repeat;
   background-size: 100%;
 }
 
 .text {
-  color: aqua;
+  color: rgb(2, 0, 95);
   margin: 0;
 
   position: absolute;
